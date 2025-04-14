@@ -1,7 +1,7 @@
 //Definizione funzione con parametri firstName e lastName
 function name(firstName, lastName) {
   //Restituisce il nome completo concatenando firstName e lastName
-  return `${firstName} ${lastName}`;
+  return firstName, lastName;
 }
 console.log(name); //Stampa la funzione name per verificarne il funzionamento
 
